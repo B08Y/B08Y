@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **bobysingh8726@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:  </h3>
+<p > <href= "https://www.linkedin.com/in/boby-raja/"> LinkedIn
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
